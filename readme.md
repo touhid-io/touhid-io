@@ -20,19 +20,23 @@
 ---
 
 ### ♟️ The Objective
-I engineer intelligence, not just software. My focus lies at the intersection of **AI Systems**, **Data Engineering** & **Strategic Automation**. I build infrastructures that process information, make autonomous decisions, scale operational efficiency.
-
+I operate as a Founder and Product Architect, engineering automated intelligence systems that redefine human-AI interfacing. Currently, I am deploying an enterprise-grade **AI Book Translator** to democratize global knowledge. My edge lies at the intersection of **System Architecture, Geopolitics & Mass Psychology**, a framework that drove **4.7M+ Organic Reach** in just 65 days.
 > *"Code is the tactical execution of a strategic will."*
 
 ---
 
 ### 🛠️ The Arsenal (Tech Stack)
 
-| **Domain** | **Technologies** |
-| :--- | :--- |
-| **🧠 Intelligence (AI/ML)** | ![Python](https://img.shields.io/badge/-Python-111?style=flat-square&logo=python) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-111?style=flat-square&logo=tensorflow) ![PyTorch](https://img.shields.io/badge/-PyTorch-111?style=flat-square&logo=pytorch) ![LangChain](https://img.shields.io/badge/-LangChain-111?style=flat-square&logo=langchain) |
-| **⚙️ Engineering (Backend)** | ![FastAPI](https://img.shields.io/badge/-FastAPI-111?style=flat-square&logo=fastapi) ![Node.js](https://img.shields.io/badge/-Node.js-111?style=flat-square&logo=nodedotjs) ![Next.js](https://img.shields.io/badge/-Next.js-111?style=flat-square&logo=next.js) ![Docker](https://img.shields.io/badge/-Docker-111?style=flat-square&logo=docker) |
-| **🗄️ Data Infrastructure** | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-111?style=flat-square&logo=postgresql) ![Pandas](https://img.shields.io/badge/-Pandas-111?style=flat-square&logo=pandas) ![Selenium](https://img.shields.io/badge/-Selenium-111?style=flat-square&logo=selenium) |
+<div align="center">
+
+| **Core & Interface** | **Engineering (Backend)** | **Intelligence (AI/ML)** | **Data Infrastructure** |
+| :---: | :---: | :---: | :---: |
+| ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) | ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) |
+| ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) | ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) | ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white) |
+| ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white) | ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) | ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white) |
+| | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) | ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) | |
+
+</div>
 
 ---
 
