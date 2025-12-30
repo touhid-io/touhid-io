@@ -1,97 +1,50 @@
-<!-- Header Image -->
-<p align="center">
-  <img src="https://res.cloudinary.com/drphgjcmk/image/upload/v1760877278/Corporate_Personal_Profile_cznuec.png" height="200" alt="Touhidul Islam">
-</p>
+<div align="center">
+  <img src="https://res.cloudinary.com/drphgjcmk/image/upload/v1760877278/Corporate_Personal_Profile_cznuec.png" height="180" alt="Touhidul Islam" style="border-radius: 50%; border: 3px solid #d4af37;">
 
-<!-- Title -->
-<h1 align="center">Touhidul Islam</h1>
+  <h1 style="font-size: 2.5rem; margin-bottom: 0;">TOUHIDUL ISLAM</h1>
+  <p style="color: #888; font-weight: bold; letter-spacing: 2px;">STRATEGIC TECHNOLOGIST | SYSTEM ARCHITECT</p>
 
-<!-- Subtitle -->
-<p align="center">
-  Strategic Technologist | AI-Driven Systems Thinker | Relentless Learner
-</p>
-
----
-
-## 👨‍💻 About Me
-
-Hi, I’m Touhid. A technologist in pursuit of engineered intelligence.
-I want to build systems that think critically, adapt autonomously and scale globally. My mission is to design AI-first infrastructures, intelligent interfaces and modular automation pipelines that power next-generation decision-making.
-
-I don’t just want to read books! I want to absorb and operationalize their wisdom.
-I don’t just want to study technology! I want to weaponize it for strategic advantage.
-I don’t just want to understand business! I want to rearchitect how it’s done.
-
-In my world, books ignite the blueprint. Business anchors the mission. Technology executes the will.
-
-That’s the future I’m building toward.
+  <p>
+    <a href="mailto:i.touhid1500@gmail.com">
+      <img src="https://img.shields.io/badge/Email-Contact_Me-d4af37?style=flat-square&logo=gmail&logoColor=black">
+    </a>
+    <a href="https://www.facebook.com/profile.php?id=61581564056371">
+      <img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=flat-square&logo=facebook&logoColor=white">
+    </a>
+    <a href="https://the-analyst-dossier.vercel.app/">
+      <img src="https://img.shields.io/badge/Portfolio-The_Dossier-000000?style=flat-square&logo=vercel&logoColor=white">
+    </a>
+  </p>
+</div>
 
 ---
 
-## 🧠 Domains of Interest
-- Artificial Intelligence (LLM, RAG, AGI Foundations)
-- Machine Learning & Deep Learning
-- Web Scraping & Data Engineering
-- Generative AI (Text, Image, Multi-modal)
-- Full-Stack Automation
-- Infrastructure-as-Code & DevOps Culture
-- API Design & Platform Thinking
-- High-Performance Knowledge Systems
+### ♟️ The Objective
+I engineer intelligence, not just software. My focus lies at the intersection of **AI Systems**, **Data Engineering**, and **Strategic Automation**. I build infrastructures that process information, make autonomous decisions, and scale operational efficiency.
+
+> *"Code is the tactical execution of a strategic will."*
 
 ---
 
-## 🛠 Technical Skills
+### 🛠️ The Arsenal (Tech Stack)
 
-### Languages
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash">
-</p>
-
-### Frameworks & Tools
-<p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
-</p>
-
-### Data & Storage
-<p>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-</p>
-
-### AI & Automation
-<p>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
-  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain">
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium">
-</p>
+| **Domain** | **Technologies** |
+| :--- | :--- |
+| **🧠 Intelligence (AI/ML)** | ![Python](https://img.shields.io/badge/-Python-111?style=flat-square&logo=python) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-111?style=flat-square&logo=tensorflow) ![PyTorch](https://img.shields.io/badge/-PyTorch-111?style=flat-square&logo=pytorch) ![LangChain](https://img.shields.io/badge/-LangChain-111?style=flat-square&logo=langchain) |
+| **⚙️ Engineering (Backend)** | ![FastAPI](https://img.shields.io/badge/-FastAPI-111?style=flat-square&logo=fastapi) ![Node.js](https://img.shields.io/badge/-Node.js-111?style=flat-square&logo=nodedotjs) ![Next.js](https://img.shields.io/badge/-Next.js-111?style=flat-square&logo=next.js) ![Docker](https://img.shields.io/badge/-Docker-111?style=flat-square&logo=docker) |
+| **🗄️ Data Infrastructure** | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-111?style=flat-square&logo=postgresql) ![Pandas](https://img.shields.io/badge/-Pandas-111?style=flat-square&logo=pandas) ![Selenium](https://img.shields.io/badge/-Selenium-111?style=flat-square&logo=selenium) |
 
 ---
 
-## 🧭 Philosophy
-
-> "Don’t build apps. Build systems that make decisions."
-
-I'm not here to be another coder. I'm here to be the mind behind machines that think.
+### 📊 Current Operations
+* **The Analyst Dossier:** A high-retention content strategy portfolio analyzing global power dynamics.
+* **AI-Driven Automation:** Developing autonomous agents for data extraction and business intelligence.
+* **Strategic Writing:** Authored case studies with **4.7M+ Organic Reach** on social platforms.
 
 ---
 
-<!-- Animated Footer Quote -->
-
-<h3 align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&random=false&width=700&lines=Architect+of+the+Type-II+Civilization" alt="Typing SVG" />
-</h3>
-
-<p align="center">
-  <em>Access Granted. Decode. Design. Dominate.</em>
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=d4af37&center=true&vCenter=true&width=500&lines=System+Loaded...;Analyzing+Architecture...;Executing+Protocol." alt="Typing SVG" />
+  
+  <p style="font-size: 0.8rem; color: #666;">© 2025 Touhidul Islam | All Systems Operational</p>
+</div>
