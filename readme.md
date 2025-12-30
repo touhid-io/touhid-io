@@ -20,7 +20,7 @@
 ---
 
 ### ♟️ The Objective
-I engineer intelligence, not just software. My focus lies at the intersection of **AI Systems**, **Data Engineering**, and **Strategic Automation**. I build infrastructures that process information, make autonomous decisions, and scale operational efficiency.
+I engineer intelligence, not just software. My focus lies at the intersection of **AI Systems**, **Data Engineering** & **Strategic Automation**. I build infrastructures that process information, make autonomous decisions, scale operational efficiency.
 
 > *"Code is the tactical execution of a strategic will."*
 
