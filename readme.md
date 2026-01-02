@@ -20,7 +20,7 @@
 ---
 
 ### ♟️ The Objective
-I operate as a Founder and Product Architect, engineering automated intelligence systems that redefine human-AI interfacing. Currently, I am deploying an enterprise-grade [**AI Book Translator**](https://document-translator-tau.vercel.app/) to democratize global knowledge. My edge lies at the intersection of **System Architecture, Geopolitics & Mass Psychology**, a framework that drove **1.93M+ Organic Reach** in just 35 days.
+I operate as a Founder and Product Architect, engineering automated intelligence systems that redefine human-AI interfacing. Currently, I am deploying [**AI Book Translator**](https://document-translator-tau.vercel.app/) to democratize global knowledge. My edge lies at the intersection of **System Architecture, Geopolitics & Mass Psychology**, a framework that drove **1.93M+ Organic Reach** in just 35 days.
 > *"Code is the tactical execution of a strategic will."*
 
 ---
